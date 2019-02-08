@@ -1,6 +1,6 @@
 # indigo-player-themes
 
-A collection of themes for indigo-player
+A collection of themes for indigo-player. Feel free to submit a pull request with your own theme if you'd like to share!
 
 Name | URL | Screenshot
 --- | --- | ---
